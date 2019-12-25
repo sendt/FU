@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/faculties_img"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        app:srcCompat="@mipmap/fu_logo"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/faculties_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="65dp"
+        android:layout_marginTop="0dp"
+        android:text="@string/faculties"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        style="@style/font_indi"/>
+
+    <TextView
+        android:id="@+id/faculties_descpription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/faculties_name"
+        android:layout_marginStart="65dp"
+        android:text="@string/desc"
+        android:textColor="@color/black"
+        style="@style/font_indi"
+        >
+
+    </TextView>
+</RelativeLayout>

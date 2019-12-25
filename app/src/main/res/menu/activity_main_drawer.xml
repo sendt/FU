@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/about_FU" />
+
+        <item
+            android:id="@+id/emergency_number"
+            android:icon="@drawable/phone"
+            android:title="@string/title_activity_emergency" />
+        <item
+            android:id="@+id/emergency_wordd"
+            android:icon="@drawable/message"
+            android:title="@string/title_activity_emergency_word" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_contactus"
+                android:icon="@drawable/map"
+                android:title="@string/contact_us" />
+        </menu>
+    </item>
+
+</menu>

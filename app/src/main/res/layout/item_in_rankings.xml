@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cardview_for_item_rankings"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/linearlayout_ranking_item">
+
+        <TextView
+            android:id="@+id/ranking_item_title1"
+            android:text="@string/ranking_title_1"
+            style="@style/txt_style_titles_ranking">
+
+        </TextView>
+        <TextView
+            android:id="@+id/ranking_item_descp1"
+            style="@style/txt_style_descp_ranking"
+            android:autoSizeTextType="uniform"
+            android:text="@string/ranking_descp_1"
+            >
+
+        </TextView>
+
+        <TextView
+            style="@style/txt_style_link"
+            android:id="@+id/ranking_item_link"
+            android:text="@string/ranking_links"
+            >
+        </TextView>
+
+        <TextView
+            android:id="@+id/ranking_item_title2"
+            android:text="@string/ranking_title_2"
+            style="@style/txt_style_titles_ranking">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/ranking_item_descp2"
+            style="@style/txt_style_descp_ranking"
+            android:autoSizeTextType="uniform"
+            android:text="@string/ranking_descp_2"
+            >
+
+        </TextView>
+
+        <TextView
+            style="@style/txt_style_link"
+            android:id="@+id/ranking_item_link2"
+            android:textColor="@color/blue"
+            android:text="@string/ranking_links"
+            >
+        </TextView>
+        <TextView
+            style="@style/txt_style_link"
+            android:textColor="@color/blue"
+            android:id="@+id/ranking_item_link3"
+            android:text="@string/ranking_links"
+            >
+        </TextView>
+
+        <TextView
+            android:id="@+id/ranking_item_title3"
+            android:text="@string/ranking_title_3"
+            style="@style/txt_style_titles_ranking">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/ranking_item_descp3"
+            style="@style/txt_style_descp_ranking"
+            android:autoSizeTextType="uniform"
+            android:text="@string/ranking_descp_3"
+            >
+
+        </TextView>
+
+        <TextView
+
+            android:id="@+id/ranking_item_link4"
+            android:textColor="@color/blue"
+            android:text="@string/ranking_links"
+            style="@style/txt_style_link">
+        </TextView>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

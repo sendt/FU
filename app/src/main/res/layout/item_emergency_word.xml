@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/root_cardview"
+    android:layout_margin="1dp"
+    android:elevation="5dp"
+    app:layout_collapseMode="pin"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        >
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/emergency_number"
+                android:textSize="18sp"
+                android:id="@+id/emergency_tr_word"
+                android:textStyle="bold"
+                android:textIsSelectable="true"
+                android:textColor="@color/black"
+                android:layout_margin="7dp"
+                style="@style/font_indi"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_activity_emergency"
+                android:textSize="14sp"
+                android:textStyle="italic"
+                android:id="@+id/emergency_en_word"
+                android:textColor="@color/black"
+                android:layout_marginLeft="7dp"
+                android:textIsSelectable="true"
+                style="@style/font_indi"
+                                />
+
+        </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

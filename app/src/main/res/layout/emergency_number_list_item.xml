@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/root_cardview"
+    android:layout_margin="1dp"
+    android:elevation="5dp"
+    app:layout_collapseMode="pin"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/emergency_img"
+            android:src="@mipmap/emergency"
+            />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="1"
+
+
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/emergency_number"
+                android:textSize="18sp"
+                android:id="@+id/emergency_number"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_margin="7dp"
+                style="@style/font_indi"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_activity_emergency"
+                android:textSize="14sp"
+                android:id="@+id/emergency_descpt"
+                android:textStyle="italic"
+                android:textColor="@color/black"
+                android:layout_marginLeft="7dp"
+                style="@style/font_indi"
+                                />
+
+        </LinearLayout>
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp"
+                android:id="@+id/btn_call"
+                android:tint="@color/green"
+                android:src="@drawable/phone"
+                android:layout_gravity="center"/>
+
+
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,680 @@
+<resources>
+    <string name="createdbybayram">Created By Bayram</string>
+    <string name="app_name">FU</string>
+    <string name="firat_univ">Fırat University</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to FU</string>
+    <string name="nav_header_subtitle">International Relations Office</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="call">CALL</string>
+
+    <string name="google_maps_key">AIzaSyDIhfQMP_w75_upu_rSDUUMzfNqu4kzydM</string>
+
+    <string name="photos">Photos</string>
+    <string name="about_FU">About FU</string>
+    <string name="faculties">Faculties</string>
+    <string name="emergency_number">Emergency</string>
+    <string name="notifications">Notifications</string>
+    <string name="menu_share">Share</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="if_you_have_any_prob">If you have any problems :)</string>
+    <string name="fu_in_rakings">F.U. in rankings</string>
+    <string name="fu_student_campus">F.U. Student Campus</string>
+    <string name="student_story">Student\'s stories</string>
+    <string name="eramus_at_fu">Erasmus+ at F.U.</string>
+    <string name="downloads">Downloads</string>
+    <string name="download">Download</string>
+
+    <string name="desc">Description</string>
+    <string name="has7">The faculty has 7 departments</string>
+    <string name="has6">The faculty has 6 departments</string>
+    <string name="has3">The faculty has 3 departments</string>
+    <string name="has4">The faculty has 4 departments</string>
+    <string name="has5">The faculty has 5 departments</string>
+    <string name="has14">The faculty has 14 departments</string>
+    <string name="has10">The faculty has 10 departments</string>
+
+
+    <string name="faculty_education">Faculty of Education</string>
+    <string name="faculty_science">Faculty of Science</string>
+    <string name="faculty_humanity">Faculty of Humanity And Social Sciences</string>
+    <string name="faculty_economic">Faculty of Economics And Administrative Sciences</string>
+    <string name="faculty_theology">Faculty of Theology</string>
+    <string name="faculty_communication">Faculty of Communication</string>
+    <string name="faculty_engineering">Faculty of Engineering</string>
+    <string name="faculty_health">Faculty of Health Science</string>
+    <string name="faculty_fisher">Faculty of Fisheries</string>
+    <string name="faculty_sport">Faculty of Sport Sciences</string>
+    <string name="faculty_technology">Faculty of Technology</string>
+    <string name="faculty_architecture">Faculty of Architecture</string>
+    <string name="faculty_medicine">Faculty of Medicine</string>
+    <string name="faculty_dentis">Faculty of Dentistry</string>
+    <string name="faculty_veterinary">Faculty of Veterinary Medicine</string>
+
+    <string name="ambulance">Ambulance</string>
+    <string name="fire">Fire</string>
+    <string name="police">Police</string>
+    <string name="coastguard">CoastGuard</string>
+    <string name="forest_fires">Forest Fires</string>
+    <string name="missing_child">Missing Child-Womens helpline</string>
+
+
+    <string-array name="emergency_list">
+        <item>@string/ambulance</item>
+        <item>@string/fire</item>
+        <item>@string/police</item>
+        <item>@string/coastguard</item>
+        <item>@string/forest_fires</item>
+        <item>@string/missing_child</item>
+
+    </string-array>
+
+
+    <string name="for_international_students">For International Students</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="aboutfulist">
+        <item>@string/firat_univ</item>
+        <item>@string/faculties</item>
+        <item>@string/fu_in_rakings</item>
+        <item>@string/fu_student_campus</item>
+        <item>@string/student_story</item>
+        <item>@string/eramus_at_fu</item>
+        <item>@string/downloads</item>
+    </string-array>
+
+    <string-array name="faculiesname">
+        <item>@string/faculty_education</item>
+        <item>@string/faculty_science</item>
+        <item>@string/faculty_humanity</item>
+        <item>@string/faculty_economic</item>
+        <item>@string/faculty_theology</item>
+        <item>@string/faculty_communication</item>
+        <item>@string/faculty_engineering</item>
+        <item>@string/faculty_health</item>
+        <item>@string/faculty_fisher</item>
+        <item>@string/faculty_sport</item>
+        <item>@string/faculty_technology</item>
+        <item>@string/faculty_architecture</item>
+        <item>@string/faculty_medicine</item>
+        <item>@string/faculty_dentis</item>
+        <item>@string/faculty_veterinary</item>
+    </string-array>
+
+    <string-array name="faculies_descpriction">
+        <item>@string/has7</item>
+        <item>@string/has6</item>
+        <item>@string/has7</item>
+        <item>@string/has7</item>
+        <item>@string/has3</item>
+        <item>@string/has4</item>
+        <item>@string/has14</item>
+        <item>@string/has4</item>
+        <item></item>
+        <item>@string/has3</item>
+        <item>@string/has10</item>
+        <item>@string/has5</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+    <string name="descp_firat_univ_1">
+ <u> Fırat University also has 4 Graduate Schools, which are:</u>
+
+        \n\n<li>1-)Graduate School of Science</li>
+        \n<li>1-)Graduate School of Health Sciences</li>
+        \n<li>2-)Graduate School of Social Sciences</li>
+        \n<li>3-)Graduate School of Educational Sciences</li>
+        \n\n
+        <u>In terms of Post High School departments we can mention:</u>
+
+        \n\n<li>1-)High School of Foreign Languages</li>
+        \n<li>2-)Conservatory</li>
+        \n<li>3-)Civil Aviation</li>
+        \n\n
+         <u>The Vocational High Schools of Firat University are:</u>
+\n\n<li>1-)Baskil Vocational High School</li>
+\n<li>2-)Maden Vocational High School</li>
+\n<li>3-)Karakoçan Vocational High School</li>
+\n<li>4-)Keban Vocational High School</li>
+\n<li>5-)Kovancılar Vocational High School</li>
+\n<li>6-)Health Services Vocational High School</li>
+\n<li>7-)Sivrice Vocational High School</li>
+\n<li>8-)Social Sciences Vocational High Sch</li>ool
+\n<li>9-)Technic Sciences Vocational High School</li>
+    </string>
+
+
+    <string name="descp_firat_univ">1975-Present\n
+        Fırat University, which has a deep-rooted history, started its educational services in Elazığ,
+        a city with cultural richness. Then, it has become a Higher Education Institution that contributes
+        significantly to the progress of higher education in the Eastern and Southeastern Anatolia Region
+        \n
+        Being at its basis an university with technical profile, Firat University is currently one of the best
+        institution in Turkey in the field of technology and engineering.
+        \n
+        Initially, a High Technical School was opened in Elazığ in 1967, and in the same year, the decision of Ankara
+        University that sets forth being established of the Faculty of Veterinary Science in Elazığ was approved by the
+        Ministry of National Education.
+        \n
+        The High Technical School was transformed into the Elazığ State Engineering and Architectural
+        Academy (ESEAA) with the law no. 1184 in 1969, and the Faculty of Veterinary Science started education in
+        1970 being dependent on Ankara University.
+        \n
+    The higher education institutions in Elazığ were gathered under a single roof with the name of “Fırat University”
+    on April 11th, 1975 and got into action within the frame of structure consisting the
+    Faculty of Veterinary Science and the College of Science and the Faculty of Letters.
+        At Fırat University reorganized with the Law of Higher Education no. 2547 and Statutory Decree no 41, the College
+        of Science and the Faculty of Letters were combined and named as the Faculty of Science and Letters. The Elazığ State
+        Engineering and Architectural Academy (ESEAA) were incorporated to the university by
+        being turned into The Faculty of Engineering.
+
+    </string>
+
+    <string name="descp_faculty_education"><p>Faculty of Education started its activity in 1998 but its first independent building was opened in 2005-2006 followed by a second one in 2007-2008 and in the end in 2017-2018 academic year is moving to a new building where is continuing its educational activities.
+
+According to the statistics, there are approximatively 1900 students, for all levels of instruction and a total of 82 academic staff. The staff of Faculty of Education is involved every year in new projects, attends conferences, symposiums, seminars and hosts scientific events recognized worldwide.
+
+        According to a research conducted by Middle East Technical University (Ankara, Turkey) in 2015, Faculty of Education of Fırat University was evaluated as the 6th in Turkey and the 692nd in the world, in terms of academic services quality.</p>
+    \n\n<u>Faculty of Education has 7 departments:</u>
+
+        \n\n<li>Computer and Instructional Technologies</li>
+\n<li>1-)Educational Sciences</li>
+\n<li>2-)Fine Arts</li>
+\n<li>3-)Elementary Education</li>
+\n<li>4-)Science and Mathematics Teaching</li>
+\n<li>5-)Secondary Education Social Science Teaching</li>
+\n<li>6-)Turkish Teaching</li></string>
+
+    <string name="descp_faculty_science"><p>Faculty of Science was established in April 1975. The first departments to be opened were Biology, Physics, Physics Engineering, Statistics, Chemistry, Chemical Engineering, Geology Engineering and Mathematics.
+
+        In the base of a law promulgated in 1982, Faculty of Science became Faculty of Sciences and Letters. The department of Physic Engineering was closed and the departments of Chemical Engineering and Geology Engineering became part of the Faculty of Engineering. The actual name of the establishment is Faculty of Science.</p>
+        \n \n <u>Faculty of Science has 6 departments:</u>
+
+\n<li>1-)Biology</li>
+\n<li>2-)Physics</li>
+\n<li>3-)Chemistry</li>
+\n<li>4-)Mathematics</li>
+\n<li>5-)Statistics</li>
+\n<li>6-)Actuarial Sciences</li>
+</string>
+
+    <string name="descp_faculty_humanities"><p>The first official meeting of the Administrative Board of the university was held in 05.12.1975, when it was decided that the first department of the faculty should be Turkish Language and Literature. In the academic year 1976-1977 department of Anthropology was opened.
+
+        In 1980 the university decided to open departments as: Archaeology, History of Arts, Geography, Antic Asian Languages, Librarianship, History, Social Sciences and Foreign Languages. In 1990 the department of Geography enrolled for the first time students and in 2005 the department of West Languages and Literatures started its activity with 30 students.</p>
+        \n\n<u>Nowadays, the faculty has 7 departments:</u>
+
+        \n<li>1-)Archeology</li>
+        \n<li>2-)West Languages and Literatures</li>
+        \n<li>3-)Geography</li>
+        \n<li>4-)Sociology</li>
+        \n<li>5-)History</li>
+        \n<li>6-)Turkish Language and Literature</li>
+\n\n<li>Contemporary Turkish Dialects and Literatures.</li></string>
+
+    <string name="descp_faculty_economic"><p>The faculty has a very modern vision and is ready to prepare its students for being good specialists in the economical problems of the world.
+
+The aim of the Faculty of Economic and Administrative Sciences is to be different not only in terms of teaching methods and research but also when it comes about the quality and the knowledge based skills of the students who are going to graduate from this uni-versity.
+
+        In the same time, the students will gain important knowledge and will be able to develop analyses, to discover the challenges of the domain they are working in and to propose qualified solutions.</p>
+        \n  \n <u> Faculty of Economics and Administrative Sciences has nowadays seven active departments:</u>
+
+        \n<li>1-)Economics</li>
+        \n<li>2-)Business Administration</li>
+        \n<li>3-)Political Sciences and Public Administration</li>
+        \n<li>4-)Labor Economics and Industrial Relations</li>
+        \n<li>5-)Finance</li>
+        \n<li>6-)Social Work</li>
+        \n<li>7-)Healthcare Management</li>
+</string>
+
+    <string name="descp_faculty_theology"><p>Faculty of Theology was established in 1993 and started its activity in the academic year of 1994-1995 with 54 students. Since 2011-2012 academic year the Faculty of Theology started to offer courses at distance as well.
+
+        The students graduating from this faculty have the possibility to teach on the base of the Qur’an special courses or they can become teachers, by adding to their base studies, Pedagogy courses.</p>
+
+        \n  \n\n<u>The faculty has departments as:</u>
+
+        \n<li>1-)Islamic Basic Sciences</li>
+        \n<li>2-)Philosophy and Religion Sciences</li>
+        \n<li>3-)Islamic History and Art.</li>
+
+\n\nFor this departments the students have the possibility to continue at Master and PhD level.
+</string>
+
+    <string name="descp_faculty_communication"><p>Faculty of Communication started its activity in the academic year of 2001-2002, with the department of Radio, Television and Cinema. Later, in 2009, department of Public Relations and Advertisement began to enroll students and since 2010, courses can be followed in this department.
+
+        In the same academic year, Visual Design department was opened. The academic and administrative staff of the university is willing to provide a large horizon to their students, based on cultural values deep-rooted in the history and with respect to the principles left from Atatürk.</p>
+  \n \<u> Faculty of Communication has nowadays 4 departments:</u>
+
+\n\n<li>Public Relations and Advertisement</li>
+       \n<li>1-)Radio, Television, Cinema</li>
+       \n<li>2-)Journalism</li>
+       \n<li>3-)Visual Design</li>
+</string>
+
+    <string name="descp_faculty_engineering"><p>The main aim of the Faculty of Engineering is to offer to its students by the help of its academicians and administrative staff, education at high and international standards.
+
+        Fırat University is one of the best in terms of Engineering and Technology. The students are prepared as specialists by being taught with the most innovative teaching methods.</p>
+ \n\n  <u>Currently Faculty of Engineering has departments as:</u>
+        \n\n<li>1-)Computer Engineering</li>
+        \n<li>2-)Bioengineering</li>
+        \n<li>3-)Environmental Engineering</li>
+        \n<li>4-)Industrial Engineering</li>
+        \n<li>5-)Electrical and Electronic Engineering</li>
+        \n<li>6-)Food Engineering</li>
+        \n<li>7-)Civil Engineering</li>
+        \n<li>8-)Geodesy Engineering</li>
+        \n<li>9-)Geology Engineering</li>
+        \n<li>10-)Chemical Engineering</li>
+        \n<li>11-)Mechanical Engineering</li>
+        \n<li>12-)Mechatronics Engineering</li>
+        \n<li>13-)Metallurgy and Materials Engineering</li>
+        \n<li>14-)Software Engineering</li>
+</string>
+
+    <string name="descp_faculty_health">
+        <p>The Faculty of Health Sciences is very new, as it has been established only in 2015. Actually, its activity started in 1997-1998 academic year, as a Post High School. The faculty and its laboratories are well equipped and prepared to accomplish the aims followed.
+
+The students enrolled in this department are prepared to become specialists in the medical field, by being taught not only the related curriculum but also how to treat the patients from a social point of view.
+
+            The activities undertaken within this department have the key role of supporting team work, reactions on the spot and unexpected situations.</p>
+        \n\n  <b>The departments of the faculty are:</b>
+        \n
+<ol>
+        \n<li>1-)Midwifery\n</li>
+        \n<li>2-)Nursing\n</li>
+        \n<li>3-)Dietetics and Nutrition\n</li>
+        \n<li>4-)Physiotherapy and Rehabilitation\n</li>
+</ol>
+</string>
+
+    <string name="descp_faculty_fisheries"><p>Faculty of Fisheries was established in 1982 as Post High School and became faculty in 1992. The faculty has all the modern means, necessary to support education at the highest quality level. All the laboratories are equipped according to international standards.
+
+The students graduating from the Faculty of Fisheries are able to work in both, private and public sectors due to their academic preparation.
+
+        The Faculty offers courses for Master and PhD level as well. At the moment Faculty of Fisheries has 33 academicians and more than 200 students.</p></string>
+
+    <string name="descp_faculty_sport">The department of Sport was opened in 1992, under the frame of Faculty of Science and Letters. Later on, in 1997 the department became a Post High School and in 2014 it was established as faculty.
+
+The mission of the Faculty of Sport Sciences is to provide the best quality of education, to realize continuous research and to prepare the students at high standards for their future career.
+        \n\n<u>Faculty of Sports Sciences has departments as:</u>
+
+        \n<li>1-)Physical Education and Sport in Schools</li>
+        \n<li>2-)Sport Administration and Training</li>
+        \n<li>3-)Recreation Education</li>
+</string>
+
+    <string name="descp_faculty_technology"><p>The studies that can be followed at this faculty last for 4 years. In the first two years all the students follow the courses related to the basis of engineering.
+
+        For the following two years of study, the students will be able to choose their specialization. What makes this faculty different from the others is the fact that in the students’ curriculum it is stated that they should receive at least 1 year of practical education.</p>
+\n   \n <u>Faculty of Technology has departments as:</u>
+
+        \n<li>1-)Forensic and Digits Engineering</li>
+        \n<li>2-)Electrical and Electronics Engineering</li>
+        \n<li>3-)Energy Systems Engineering</li>
+        \n<li>4-)Civil Engineering</li>
+        \n<li>5-)Mechanical Engineering</li>
+        \n<li>6-)Mechatronics Engineering</li>
+        \n<li>7-)Metallurgy and Materials Engineering</li>
+        \n<li>8-)Automotive Engineering</li>
+        \n<li>9-)Software Engineering</li>
+        \n<li>10-)Digital Forensics</li>
+</string>
+
+    <string name="descp_faculty_architecture"><p>Faculty of Architecture was established in 2011 having as main courses Design, Interior Design, Landscape Design and Urban Planning. The faculty started its activity in the academic year 2015-2016 with 64 students.
+
+        The main objective of this faculty is to form and train future architects ready to compete at national and international level when it comes to the services offered.</p>
+ \n \n <u> Faculty of Architecture has departments as:</u>
+
+        \n<li>1-)Architecture</li>
+        \n<li>2-)Interior Design</li>
+        \n<li>3-)Landscape Architecture</li>
+        \n<li>4-)Urban and Regional Planning</li>
+        \n<li>5-)Industrial Materials Design</li>
+</string>
+
+    <string name="descp_faculty_medicine"><p>Faculty of Medicine was established 36 years ago. This faculty is always in a development process, being in the same time one of the most important health research centers in the eastern Turkey.
+
+The hospital, which belongs to the university has around 55 departments where intense care is provided.
+
+Academicians of Faculty of Medicine are continuously researching and participating at conferences and symposiums in order to support innovation.
+
+        Beside the medical knowledge that the students acquire during their studies, they are also taught to fulfill the needs of their future patients in terms of social, psychological and personal weakness.</p></string>
+
+    <string name="descp_faculty_dentistry"><p>The Faculty of Dentistry enrolled for the first time students in the academic year 2015-2016. The objective of the staff and academicians of this department is to transform the faculty in a very important one at national and international level.
+
+The team of academicians working in this department is young and dynamic and has will to improve in a quick and qualitative manner.
+
+        An advantage may be considered the fact that the physical conditions for medical care are very suitable, this aspect being proved by taking into consideration the experience of 32 years of Faculty of Medicine.</p></string>
+
+    <string name="descp_faculty_veterinary"><p>Faculty of Veterinary Medicine existed even before the official recognition of the university, being established in 1970 as an independent school. Nowadays this faculty is providing courses at Master and PhD level, with the most modern means and laboratories.
+
+More than 800 students are enrolled in the faculty and approximately 125 academic staff are responsible for the educational activities.
+
+The education offered in the Faculty of Veterinary Medicine of Fırat University, provides to our students the ability to compete with students of other universities in terms of knowledge and career oriented skills.
+
+        In 2013 the Faculty of Veterinary Medicine obtained the status of an EAEVE accredited (European Association of Establishments for Veterinary)</p></string>
+
+    <string name="todo">todo</string>
+    <string name="title_activity_emergency">Emergency Number</string>
+    <string name="title_activity_emergency_word">Emergency Word</string>
+    <string name="tab_text_1">Numbers</string>
+    <string name="tab_text_2">Words</string>
+
+    <string name="ranking_title_1">
+      <b>  A.  The Best Global Universities</b>
+    </string>
+    <string name="ranking_descp_1">
+      On the Best Global Universities ranking list published by US News \ World Report,
+        F.U has been placed 400th globally and 6th nationally in subject of engineering
+        showing a greatly positive success rate. (January 2016)
+    </string>
+
+
+    <string name="ranking_title_2">
+      <b> B.   Top 2000 Universities - The Center for World University Rankings (CWUR)</b>
+    </string>
+    <string name="ranking_descp_2">
+      F.U has been rated as 1405 World rank and 30 National
+        Rank in the The Center for World University Rankings 2019-2020.
+    </string>
+    <string name="ranking_links">Link will be write here from java array</string>
+
+
+    <string name="ranking_title_3">
+      <b> C. Shanghai Ranking Consultancy </b>
+    </string>
+    <string name="ranking_descp_3">
+      In 2019 Shanghai Ranking Consultancy announced Academic
+        Ranking of World Universities 2019. Firat University, is once again part of the best universities.\n\n
+        ShanghaiRanking Consultancy Internet Page:
+    </string>
+    <string name="stories_title_name1"><b>Gema Morillas Ramos</b></string>
+    <string name="stories_names_country1"><b>University of Alcala – Pharmacy (Spain)</b></string>
+    <string name="stories_p1_1">After finishing my Master of Pharmacy at the University of Alcala (UAH)
+        I went for a 3 months Erasmus+ traineeship at Firat University. During my stay I worked at the
+        Pharmacology Department of the Faculty of Medicine under the supervision of Prof. Dr. Engin Şahna together with
+        Dr. Assistant Merve Yilmaz Bozoglan and the rest of the team.</string>
+    <string name="stories_p1_2">During my stay Prof. Dr. Engin Şahna tried to fit as much as possible my preferences at lab so this
+        internship was the most suitable for me. As a result, I did the course to obtain a certificate to work with experimental
+        animals; I performed different techniques in experimental animals such as ovariectomy or tracheotomy to rats.
+        Prof. Dr. Engin Şahna also arranged an internship in collaboration with Biomolecular Department of the Veterinary
+        Faculty in order to show me new lab techniques as I per my request. Furthermore, I was able to do a presentation comparing
+        differences between Spanish and Turkish diet at the yearly Medical students congress, this year the topic was obesity.</string>
+
+    <string name="stories_p1_3">On the one hand, one of the most important difficulties in an Erasmus experience is the fact of
+        leaving abroad in a country with a different language than your mother tongue and also different culture.
+        Since day one I felt part of the department and its team. They took care of me during work, making my internship experience
+        as useful as possible to me, but also they cared for me after work, showing me Turkish food, culture and traditions
+        and hosting me as part of their families, especially Dr. Assistant Merve Yilmaz Bozoglan. She was with me every day,
+        making sure that Prof. Dr. Engin Şahna’s plans for me were carried out and be a translator when it was needed.</string>
+
+    <string name="stories_p1_4">I feel I could not have asked for a better traineeship. It was made to my preferences since the
+        very first day; I had the chance to work with animals, something that I could not have been able to do it in Spain.
+        I know this internship will have a great impact in my CV and it will help me to find a job in research.</string>
+
+    <string name="stories_p1_5">I can only speak kind words about my stay at the Pharmacology Department and my supervisor and co-workers.
+        I highly recommend to further students to carry out their internships at the Pharmacology Department of the Faculty of Medicine
+        at Firat University.</string>
+
+    <string name="stories_title_name2"><b>Kateřina Kuthanová</b></string>
+    <string name="stories_names_country2"><b>University of South Bohemia - Regional and European Project Management (Czech Republic)</b></string>
+    <string name="stories_p2_1">I have had an opportunity to familiarise with the work of the International Relations Office of
+        Firat University and so to be a part of a real and warm-hearted international team (consisting of the Turkish,
+        the Dutch, the Romanian and me – the Czech) while living in a dormitory with other international students, both located
+        in a beautiful green university campus full of high trees, fresh grass and nice and kind free, street dogs.</string>
+    <string name="stories_p2_2">As one of the international students, I have taken some advantages like to have a free accommodation,
+        to participate in some amazing trips (Kapadokya, Mardin) offered by the International Relations Office, to have free lunches
+        in the university canteen and once a week a tasty breakfast with international students and the staff in the office meeting room,
+        and to borrow a bicycle. My stay in Elazig has been a pleasant abroad experience for me and thanks to this,
+        I have also improved my intercultural communication skills and I have become more adaptable to new environments.</string>
+
+    <string name="stories_p2_3">Come to Elazig! It’s not a famous either a big city, however, a real Turkish as well as
+        international experience is guaranteed.</string>
+
+
+    <string name="erasmus_at_fu_txt1">
+        Do you want to be Erasmus+ Student at Fırat University? Great!
+        Then you have two options: either you will have a Learning Mobility or you will choose a Placement.
+    </string>
+    <string name="erasmus_at_fu_txt2">
+        For a <b>Learning Mobility </b>you have certain things to complete before applying.
+    </string>
+    <string name="erasmus_at_fu_txt3">
+       Step I
+    </string>
+    <string name="erasmus_at_fu_txt4">
+       Check on our website if we have a Bilateral Agreement with your university.
+        This agreement is compulsory for this kind of Mobility.
+        If we do not have one, please ask your International Office to contact us.
+        We are always open for new collaborations!
+    </string>
+    <string name="erasmus_at_fu_txt5">
+       Step II
+    </string>
+    <string name="erasmus_at_fu_txt6">
+       Follow the qualification procedures of your International Office.
+    </string>
+    <string name="erasmus_at_fu_txt7">
+       Step III
+    </string>
+    <string name="erasmus_at_fu_txt8">
+     Make sure that the nomination from your home university is sent to F.Ü. on the following email address:
+    </string>
+    <string name="erasmus_at_fu_txt9">
+       erasmus@firat.edu.tr.
+    </string>
+    <string name="erasmus_at_fu_txt10">
+       Then, our office will contact you and will provide you all the support you need to find the correct list of available courses.
+    </string>
+    <string name="erasmus_at_fu_txt11">
+       Step IV
+    </string>
+    <string name="erasmus_at_fu_txt12">
+       Send us your Learning Agreement (scanned version) with all the necessary approvals and signatures.
+    </string>
+    <string name="erasmus_at_fu_txt13">
+       Step V
+    </string>
+    <string name="erasmus_at_fu_txt14">
+       After the completion of the last step you will be able to receive your Acceptance Letter.
+    </string>
+    <string name="erasmus_at_fu_txt15">
+       Necessary documents:
+    </string>
+    <string name="erasmus_at_fu_txt16">
+      \n<li>  - Learning Agreement</li>\n
+      \n<li>  - Monthly grant document </li>\n
+      \n<li>  - Photocopy of your passport/ID</li>\n
+      \n<li>  - Insurance </li>\n
+      \n<li>  - Visa</li>\n
+    </string>
+    <string name="erasmus_at_fu_txt17">
+    For a Placement Mobility the procedures are simpler:
+    </string>
+    <string name="erasmus_at_fu_txt18">
+       Step I
+    </string>
+    <string name="erasmus_at_fu_txt19">
+       You have to contact us and let us know in which department you are interested.
+       We will contact the department coordinator and ask for his/her approval on your mobility.
+    </string>
+    <string name="erasmus_at_fu_txt20">
+       Step II
+    </string>
+    <string name="erasmus_at_fu_txt21">
+       After he/she confirms your mobility, you should prepare a Training Mobility programme which needs to be signed by you,
+       your home university and final by Firat University. Please remind that for such mobility, no Bilateral Agreement is required.
+    </string>
+    <string name="erasmus_at_fu_txt22">
+       Step III
+    </string>
+    <string name="erasmus_at_fu_txt23">
+       Soon after the completion of this step you will receive your Acceptance Letter.
+    </string>
+
+    <string name="campus_txt1">
+      <b>The largest and most beautiful green campus in Turkey </b>
+    </string>
+    <string name="campus_txt2">
+       <b> “A city within a city”, </b>the campus located right in the heart of the city of Elazığ,
+        is close to many natural and recreation spots, such as the Martyred Police Officer
+        Fethi Sekin Recreation Area and Culture Park (Kültürpark).</string>
+    <string name="campus_txt3">
+       <b>Facilities</b>
+    </string>
+    <string name="campus_txt4">
+       > Firat University Hospital
+    </string>
+    <string name="campus_txt5">
+       Established in 1984, Firat University Hospital is the biggest in the region which provide tertiary health care services.
+    </string>
+    <string name="campus_txt6">
+       > Library
+    </string>
+    <string name="campus_txt7">
+       The library is an all-university unit fulfilling service,
+        didactic and scientific tasks and includes versatile facilities to support study and research,
+        such as the Learning Commons (group-work space) and the Media Commons (multimedia facility).
+       In addition to a wide range of journals, books, and databases, the library also provides online
+        access to the University’s research information repository and its digital archive.
+    </string>
+    <string name="campus_txt8">
+        <b> > Sport facilities</b>
+    </string>
+    <string name="campus_txt9">
+       We have a great range of facilities, both indoors and outdoors at our F.U. Campus.\n\n
+    <ul>
+        \n<li>- Outdoor Basketball Courts</li>
+        \n<li>- Football Pitch Turf</li>
+        \n<li>- Volleyball and Tennis Courts Sports complex</li>
+        \n<li>- Paintball Facilities</li>
+        \n<li>- Indoor sand volleyball court</li>
+        \n<li>- Indoor Sports Court (Aerobics and Step)</li>
+        \n<li>- Fitness Gym</li>
+        \n<li>- Table Tennis</li>
+        </ul>
+    </string>
+    <string name="campus_txt10">
+       > Accommodation
+    </string>
+    <string name="campus_txt11">
+      Firat University provides housing for international staff and students right in its campus.
+    </string>
+    <string name="campus_txt12">
+       > Health services
+    </string>
+    <string name="campus_txt13">
+       Firat University provides medical services for students and staff, including consultation and treatment.
+    </string>
+
+
+    <string name="Accident">Accident</string>
+    <string name="Emergency">Emergency</string>
+    <string name="Fire">Fire</string>
+    <string name="Help">Help  me!</string>
+    <string name="Hospital">Hospital</string>
+    <string name="Medicine">Medicine</string>
+    <string name="Faint">Faint</string>
+    <string name="had_an_accident">I have had an accident</string>
+    <string name="Injured">Injured</string>
+    <string name="Unconscious">Unconscious</string>
+    <string name="Bleeding">Bleeding</string>
+    <string name="attack">attack</string>
+    <string name="Stroke">Stroke</string>
+    <string name="Drowning">Drowning</string>
+    <string name="Burn">Burn</string>
+    <string name="sick">Very sick</string>
+    <string name="contractions">In labour / having contractions</string>
+    <string name="need_doctor">Need a doctor</string>
+    <string name="need_ambulance">Need an ambulance</string>
+    <string name="house_is_on_fire">The  house is on fire</string>
+    <string name="car_fire">The car is on fire</string>
+    <string name="burgled">I am being burgled</string>
+    <string name="someone_in_house">Someone is in the house</string>
+
+    <string-array name="word_eng">
+        <item>@string/Accident</item>
+        <item>@string/Emergency</item>
+        <item>@string/Fire</item>
+        <item>@string/Help</item>
+        <item>@string/Hospital</item>
+        <item>@string/Medicine</item>
+        <item>@string/Faint</item>
+        <item>@string/had_an_accident</item>
+        <item>@string/Injured</item>
+        <item>@string/Unconscious</item>
+        <item>@string/Bleeding</item>
+        <item>@string/attack</item>
+        <item>@string/Stroke</item>
+        <item>@string/Drowning</item>
+        <item>@string/Burn</item>
+        <item>@string/sick</item>
+        <item>@string/contractions</item>
+        <item>@string/need_doctor</item>
+        <item>@string/need_ambulance</item>
+        <item>@string/house_is_on_fire</item>
+        <item>@string/car_fire</item>
+        <item>@string/burgled</item>
+        <item>@string/someone_in_house</item>
+    </string-array>
+
+    <string name="Kaza">Kaza</string>
+    <string name="Acil">Acil / acil vaka</string>
+    <string name="Ateş">Ateş</string>
+    <string name="bana_yardım">Bana yardım edin</string>
+    <string name="Hastane">Hastane</string>
+    <string name="ilac">İlaç</string>
+    <string name="baygın">Baygın</string>
+    <string name="kaza">Ben kaza geçirdim</string>
+    <string name="yaralı">Yaralı</string>
+    <string name="bilincsiz">Bilinçsiz</string>
+    <string name="Kanama">Kanama</string>
+    <string name="krizi">Kalp krizi</string>
+    <string name="Felc">Felç / inme / darbe</string>
+    <string name="Bogmak">Boğmak</string>
+    <string name="Yanma">Yanma </string>
+    <string name="hasta">Çok hasta</string>
+    <string name="Kasilma">Kasilma / gerilme</string>
+    <string name="Doktora_ihtiyac_var">Doktora ihtiyaç var</string>
+    <string name="Bir_ambulansa">Bir ambulansa ihtiyacım var</string>
+    <string name="Ev_yaniyor">Ev yaniyor / evde yangin var</string>
+    <string name="araba_yanıyor">Araba yaniyor</string>
+    <string name="Soyuldum">Soyuldum</string>
+    <string name="evde_biri_var">Evde biri var</string>
+
+    <string-array name="word_tr">
+        <item>@string/Kaza</item>
+        <item>@string/Acil</item>
+        <item>@string/Ateş</item>
+        <item>@string/bana_yardım</item>
+        <item>@string/Hastane</item>
+        <item>@string/ilac</item>
+        <item>@string/baygın</item>
+        <item>@string/kaza</item>
+        <item>@string/yaralı</item>
+        <item>@string/bilincsiz</item>
+        <item>@string/Kanama</item>
+        <item>@string/krizi</item>
+        <item>@string/Felc</item>
+        <item>@string/Bogmak</item>
+        <item>@string/Yanma</item>
+        <item>@string/hasta</item>
+        <item>@string/Kasilma</item>
+        <item>@string/Doktora_ihtiyac_var</item>
+        <item>@string/Bir_ambulansa</item>
+        <item>@string/Ev_yaniyor</item>
+        <item>@string/araba_yanıyor</item>
+        <item>@string/Soyuldum</item>
+        <item>@string/evde_biri_var</item>
+    </string-array>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

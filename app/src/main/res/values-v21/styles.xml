@@ -1,0 +1,63 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="txt_style_titles_ranking">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/baskervville_regular</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+
+    <style name="txt_style_descp_ranking">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/baskervville_regular</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+
+    <style name="txt_style_link">
+        <item name="android:textColorLink">@color/blue</item>
+        <item name="android:fontFamily">@font/baskervville_regular</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textIsSelectable">true</item>
+        <item name="android:autoLink">web</item>
+    </style>
+    <style name="font_indi">
+        <item name="android:fontFamily">@font/baskervville_regular</item>
+    </style>
+
+    <style name="txt_style_titles_campus">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/baskervville_regular</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+
+    <style name="txt_style_descp_campus">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/baskervville_regular</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+
+
+
+</resources>
